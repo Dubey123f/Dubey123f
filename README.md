@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Dubey123f
-- 👀 I’m interested in Web devlopment and Competitive Programing
-- 🌱 I’m currently learning Data Structure and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello! I'm Ayush Dubey.
 
-<!---
-Dubey123f/Dubey123f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate front-end developer with a knack for problem-solving, a love for creating innovative projects, and a penchant for competitive programming. My journey in the world of coding is fueled by curiosity, creativity, and a relentless pursuit of excellence.
+
+## 💻 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, C, C++, Java, Python
+- **Frameworks/Libraries:** React, Next.js, Tailwind
+- **Tools:** Git, GitHub, VS Code, Developer Tool
+
+## Coding Profile
+- **Codeforces** [dubeyayush2006](https://codeforces.com/profile/dubeyayush2006)
+- **CodeChef** [dubeyayush2006](https://www.codechef.com/users/dubeyayush2006)
+- **LeetCode** [ayush2448](https://leetcode.com/u/ayush2448/)
+  
+
+## 🌱 Currently Learning
+I believe in continuous learning. Currently, I'm diving deeper into Next.js and Data Structures and Algorithms to enhance my skills and stay updated with the latest industry trends.
+
+## 👨‍💻 Let's Connect!
+- **LinkedIn:** [Ayush Dubey](https://www.linkedin.com/in/ayush-dubey-84a096255/)
+- **Email:** dubeyayush2006@gmail.com
+
+Feel free to explore my repositories and provide feedback. I'm always open to collaboration and new opportunities. Let's build something amazing together! 🚀
