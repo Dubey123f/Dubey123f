@@ -10,7 +10,6 @@ I'm a passionate front-end developer with a knack for problem-solving, a love fo
 
 ## Coding Profile
 - **Codeforces** [dubeyayush2006](https://codeforces.com/profile/dubeyayush2006)
-- **CodeChef** [ayush2448](https://www.codechef.com/users/ayush2448)
 - **LeetCode** [ayush2448](https://leetcode.com/u/ayush2448/)
   
 
