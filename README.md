@@ -9,7 +9,6 @@ I'm a passionate front-end developer with a knack for problem-solving, a love fo
 - **Tools:** Git, GitHub, VS Code, Developer Tool
 
 ## Coding Profile
-- **Codeforces** [dubeyayush2006](https://codeforces.com/profile/dubeyayush2006)
 - **LeetCode** [ayush2448](https://leetcode.com/u/ayush2448/)
   
 
