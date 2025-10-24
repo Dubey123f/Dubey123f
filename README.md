@@ -104,11 +104,14 @@ Currently exploring **AI-driven web apps**, **real-time systems**, and **open-so
 
 <br/>
 
-<img src="https://leetcode.com/static/images/badges/knight.png" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" />
-<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" />
-<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" />
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/knight.png" alt="Knight Badge" width="80" height="80" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="365 Badge" width="80" height="80" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="25100 Badge" width="80" height="80" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="2550 Badge" width="80" height="80" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" alt="2024 Badge" width="80" height="80" />
+</p>
+
 
 <br/>
 
