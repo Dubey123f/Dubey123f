@@ -104,7 +104,7 @@ Currently exploring **AI-driven web apps**, **real-time systems**, and **open-so
 
 <br/>
 
-<img src="https://img.shields.io/badge/Knight%20Badge-2025--10--23-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://leetcode.com/static/images/badges/knight.png" />
 <img src="https://img.shields.io/badge/365%20Days%20Badge-Active-gold?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/200%20Days%20Badge-2024--10--28-purple?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/100%20Days%20Badge-2025--04--24-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
