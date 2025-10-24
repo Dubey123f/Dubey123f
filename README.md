@@ -105,14 +105,14 @@ Currently exploring **AI-driven web apps**, **real-time systems**, and **open-so
 <br/>
 
 <img src="https://leetcode.com/static/images/badges/knight.png" />
-<img src="https://img.shields.io/badge/365%20Days%20Badge-Active-gold?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/200%20Days%20Badge-2024--10--28-purple?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/100%20Days%20Badge-2025--04--24-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/50%20Days%20Badge-2025--02--21-limegreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" />
+<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" />
+<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" />
 
 <br/>
 
-🧠 **Total Problems Solved:** ![Problems](https://img.shields.io/badge/Solved-1200+-yellow?style=for-the-badge&logo=leetcode&logoColor=white)
+🧠 **Total Problems Solved:** ![Problems](https://img.shields.io/badge/Solved-600+-yellow?style=for-the-badge&logo=leetcode&logoColor=white)
 <br/>
 🔥 **Current Streak:** ![Streak](https://img.shields.io/badge/365%20Days%20Streak-Active-orange?style=for-the-badge&logo=fire&logoColor=white)
 
