@@ -110,18 +110,19 @@ Currently Learning and exploring ML and its Frameworks. Diving deep into these.
 
 <div align="center">
 
-  <a href="https://github.com/Dubey123f/AskC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=ProPhet_BnB&theme=dark&hide_border=true" height="140"/>
-  </a>
-  <a href="https://github.com/Dubey123f/UI-Layout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=DSA-with-C-&theme=dark&hide_border=true" height="140"/>
-  </a>
-  <a href="https://github.com/Dubey123f/Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=Lane_Morph&theme=dark&hide_border=true" height="140"/>
-  </a>
-  <a href="https://github.com/Dubey123f/Crypto-Nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=Greydge&theme=dark&hide_border=true" height="140"/>
-  </a>
+<a href="https://github.com/Dubey123f/AskC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=AskC&theme=dark&hide_border=true" height="140"/>
+</a>
+<a href="https://github.com/Dubey123f/UI-Layout">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=UI-Layout&theme=dark&hide_border=true" height="140"/>
+</a>
+<a href="https://github.com/Dubey123f/Ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=Ecommerce&theme=dark&hide_border=true" height="140"/>
+</a>
+<a href="https://github.com/Dubey123f/Crypto-Nexus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=Crypto-Nexus&theme=dark&hide_border=true" height="140"/>
+</a>
+
 
 </div>
 
