@@ -1,52 +1,54 @@
-
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=48&pause=1200&color=ECECEC&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Ayush+%F0%9F%91%8B" alt="Typing SVG" />
   
   <br>
   <span style="font-size:1.2em; font-weight:700; color:#ececec;">
-
   </span>
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BhattAyush17.BhattAyush17" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dubey123f.Dubey123f" alt="visitors"/>
 </div>
 
- <b>Transforming data into actionable insights to address real-world challenges.</b>
+<b>Transforming ideas into visually stunning and technically sound web experiences.</b>
+
+---
 
 ## **Intro**
 
-Following my curiosity into the world of Data Science and Machine Learning.
-I enjoy transforming data into actionable insights, building intelligent systems, and collaborating on impactful projects.<br>
-My interests span **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP**.<br>
-Currently Learning and exploring ML and its Frameworks. Diving deep into these. 
+I’m a **Full Stack Developer** passionate about creating scalable, user-centric, and impactful digital solutions.  
+I enjoy designing intuitive UIs, building robust backends, and integrating smart systems that make life easier.  
 
-
+My focus areas include **Next.js**, **React**, **Node.js**, **Tailwind CSS**, and **AI integrations** using modern APIs.  
+Currently exploring **AI-driven web apps**, **real-time systems**, and **open-source UI tools**. 🚀
 
 ---
-
 
 ## **About Me**
 
-- Strong foundation in Python, C++, and modern ML frameworks.
-- Love exploring new algorithms and staying updated with AI research.
-- Focused on making data science accessible and impactful.
-- Enjoys exploring and learning about ML and data driven projects and concepts.
-- Always open to collaboration on cool projects and innovative solutions.
+- 🧠 Skilled in **JavaScript**, **TypeScript**, and **modern frameworks** like React & Next.js  
+- 💻 Experienced with **Node.js**, **Express**, and **MongoDB** for backend development  
+- 🎨 Passionate about **UI/UX**, **Tailwind CSS**, and **ShadCN design systems**  
+- 🌐 Building open-source projects to empower other developers  
+- 🤝 Open to collaborations and internships that push innovation forward  
 
 ---
 
-## **Languages Used**
+## **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-222222?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-222222?style=for-the-badge&logo=jupyter&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=white) 
-![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-222222?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=for-the-badge&logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+---
 
-<!-- ------------------ GITHUB STATS HEADER ------------------ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=36&pause=1200&color=ECECEC&vCenter=true&width=350&height=50&lines=GitHub+Stats" alt="Typing SVG" />
 </div>
@@ -56,42 +58,44 @@ Currently Learning and exploring ML and its Frameworks. Diving deep into these.
     <tr>
       <td align="center" valign="top">
         <b>GitHub Stats</b><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=BhattAyush17&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Dubey123f&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="180"/>
       </td>
       <td align="center" valign="top">
         <b>Current Streak</b><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhattAyush17&theme=dark&hide_border=true" height="180"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubey123f&theme=dark&hide_border=true" height="180"/>
       </td>
       <td align="center" valign="top">
         <b>Top Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhattAyush17&theme=dark&hide_border=true&layout=compact" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubey123f&theme=dark&hide_border=true&layout=compact" height="180"/>
       </td>
     </tr>
   </table>
+
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhattAyush17&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubey123f&theme=github-dark&hide_border=true" width="100%" />
 </div>
 
+---
 
-## **GitHub Trophies**
+## **GitHub Trophies 🏆**
 
 <div align="center">
-  <!-- Widget (may not always load) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=BhattAyush17&theme=darkhub&no-frame=true" height="120" alt="GitHub Trophies Widget"/>
-  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dubey123f&theme=darkhub&no-frame=true&margin-w=10" height="120" alt="GitHub Trophies"/>
+</div>
 
+---
 
-## **GitHub Badges & Achievements**
+## **GitHub Badges & Achievements 🛡️**
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?logo=github&style=for-the-badge" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
-  <img src="https://img.shields.io/badge/Star%20Sponsor-yellow?logo=github&style=for-the-badge" alt="GitHub Star Sponsor" title="GitHub Star Sponsor"/>
-  <img src="https://img.shields.io/badge/Developer%20Program%20Member-green?logo=github&style=for-the-badge" alt="Developer Program Member" title="Developer Program Member"/>
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer%20Program%20Member-green?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-orange?logo=github&style=for-the-badge" />
 </div>
 
 ---
 
 ## **Featured Projects**
-
 
 | Repository | Description | Language | Stars | Forks |
 |-------------|-------------|-----------|--------|--------|
@@ -102,30 +106,32 @@ Currently Learning and exploring ML and its Frameworks. Diving deep into these.
 | [my-ui-library](https://github.com/Dubey123f/my-ui-library) | Custom Next.js + ShadCN + Tailwind UI component library | TypeScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/my-ui-library?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/my-ui-library?style=social) |
 | [MovieR](https://github.com/Dubey123f/MovieR) | Movie rating app using React, Tailwind CSS & OMDB API | JavaScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/MovieR?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/MovieR?style=social) |
 
-
-
 ---
 
-## **Best Repositories**
+## **Best Repositories 💡**
 
 <div align="center">
-
-<a href="https://github.com/Dubey123f/AskC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=AskC&theme=dark&hide_border=true" height="140"/>
-</a>
-<a href="https://github.com/Dubey123f/UI-Layout">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=UI-Layout&theme=dark&hide_border=true" height="140"/>
-</a>
-<a href="https://github.com/Dubey123f/Ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=Ecommerce&theme=dark&hide_border=true" height="140"/>
-</a>
-<a href="https://github.com/Dubey123f/Crypto-Nexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=Crypto-Nexus&theme=dark&hide_border=true" height="140"/>
-</a>
-
-
+  <a href="https://github.com/Dubey123f/AskC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=AskC&theme=dark&hide_border=true" height="140"/>
+  </a>
+  <a href="https://github.com/Dubey123f/UI-Layout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=UI-Layout&theme=dark&hide_border=true" height="140"/>
+  </a>
+  <a href="https://github.com/Dubey123f/Ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=Ecommerce&theme=dark&hide_border=true" height="140"/>
+  </a>
+  <a href="https://github.com/Dubey123f/Crypto-Nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=Crypto-Nexus&theme=dark&hide_border=true" height="140"/>
+  </a>
+  <a href="https://github.com/Dubey123f/my-ui-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=my-ui-library&theme=dark&hide_border=true" height="140"/>
+  </a>
+  <a href="https://github.com/Dubey123f/MovieR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dubey123f&repo=MovieR&theme=dark&hide_border=true" height="140"/>
+  </a>
 </div>
 
 ---
 
-<!-- End of README -->
+⭐ **Thanks for visiting my profile!**  
+Let’s connect and collaborate on something amazing. 🌟
