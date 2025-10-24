@@ -94,6 +94,30 @@ Currently exploring **AI-driven web apps**, **real-time systems**, and **open-so
 </div>
 
 ---
+---
+
+## 🧩 LeetCode Achievements
+
+<div align="center">
+
+🎯 **Profile:** [ayush2448](https://leetcode.com/u/ayush2448/)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Knight%20Badge-2025--10--23-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/365%20Days%20Badge-Active-gold?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/200%20Days%20Badge-2024--10--28-purple?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/100%20Days%20Badge-2025--04--24-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/50%20Days%20Badge-2025--02--21-limegreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<br/>
+
+🧠 **Total Problems Solved:** ![Problems](https://img.shields.io/badge/Solved-1200+-yellow?style=for-the-badge&logo=leetcode&logoColor=white)
+<br/>
+🔥 **Current Streak:** ![Streak](https://img.shields.io/badge/365%20Days%20Streak-Active-orange?style=for-the-badge&logo=fire&logoColor=white)
+
+</div>
+
 
 ## **Featured Projects**
 
