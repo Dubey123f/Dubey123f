@@ -92,14 +92,17 @@ Currently Learning and exploring ML and its Frameworks. Diving deep into these.
 
 ## **Featured Projects**
 
+
 | Repository | Description | Language | Stars | Forks |
-|------------|-------------|----------|-------|-------|
-| [ProPhet_BnB](https://github.com/BhattAyush17/ProPhet_BnB) | Airbnb price prediction | Python | ![Stars](https://img.shields.io/github/stars/BhattAyush17/ProPhet_BnB?style=social) | ![Forks](https://img.shields.io/github/forks/BhattAyush17/ProPhet_BnB?style=social) |
-| [Lane_Morph](https://github.com/BhattAyush17/Lane_Morph) | Lane detection & morphing | Python | ![Stars](https://img.shields.io/github/stars/BhattAyush17/Lane_Morph?style=social) | ![Forks](https://img.shields.io/github/forks/BhattAyush17/Lane_Morph?style=social) |
-| [DSA-with-C-](https://github.com/BhattAyush17/DSA-with-C-) | DSA implementations in C++ | C++ | ![Stars](https://img.shields.io/github/stars/BhattAyush17/DSA-with-C-?style=social) | ![Forks](https://img.shields.io/github/forks/BhattAyush17/DSA-with-C-?style=social) |
-| [Greydge](https://github.com/BhattAyush17/Greydge) | Data pipeline for grey-scale image analysis | Python | ![Stars](https://img.shields.io/github/stars/BhattAyush17/Greydge?style=social) | ![Forks](https://img.shields.io/github/forks/BhattAyush17/Greydge?style=social) |
-| [zavix-animegan-app](https://github.com/BhattAyush17/zavix-animegan-app) | AnimeGAN web app | Python | ![Stars](https://img.shields.io/github/stars/BhattAyush17/zavix-animegan-app?style=social) | ![Forks](https://img.shields.io/github/forks/BhattAyush17/zavix-animegan-app?style=social) |
-| [Loan-Dash-X](https://github.com/BhattAyush17/Loan-Dash-X) | Loan dashboard app | Python | ![Stars](https://img.shields.io/github/stars/BhattAyush17/Loan-Dash-X?style=social) | ![Forks](https://img.shields.io/github/forks/BhattAyush17/Loan-Dash-X?style=social) |
+|-------------|-------------|-----------|--------|--------|
+| [AskC](https://github.com/Dubey123f/AskC) | Community chat app built with Next.js, Clerk & Stream Chat | TypeScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/AskC?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/AskC?style=social) |
+| [UI-Layout](https://github.com/Dubey123f/UI-Layout) | ShadCN-inspired UI layout components library | TypeScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/UI-Layout?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/UI-Layout?style=social) |
+| [Ecommerce](https://github.com/Dubey123f/Ecommerce) | Full-stack MERN e-commerce app with authentication | JavaScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/Ecommerce?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/Ecommerce?style=social) |
+| [Crypto-Nexus](https://github.com/Dubey123f/Crypto-Nexus) | Real-time crypto dashboard using Next.js & APIs | TypeScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/Crypto-Nexus?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/Crypto-Nexus?style=social) |
+| [my-ui-library](https://github.com/Dubey123f/my-ui-library) | Custom Next.js + ShadCN + Tailwind UI component library | TypeScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/my-ui-library?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/my-ui-library?style=social) |
+| [MovieR](https://github.com/Dubey123f/MovieR) | Movie rating app using React, Tailwind CSS & OMDB API | JavaScript | ![Stars](https://img.shields.io/github/stars/Dubey123f/MovieR?style=social) | ![Forks](https://img.shields.io/github/forks/Dubey123f/MovieR?style=social) |
+
+
 
 ---
 
@@ -107,24 +110,19 @@ Currently Learning and exploring ML and its Frameworks. Diving deep into these.
 
 <div align="center">
 
-  <a href="https://github.com/BhattAyush17/ProPhet_BnB">
+  <a href="https://github.com/Dubey123f/AskC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=ProPhet_BnB&theme=dark&hide_border=true" height="140"/>
   </a>
-  <a href="https://github.com/BhattAyush17/DSA-with-C-">
+  <a href="https://github.com/Dubey123f/UI-Layout">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=DSA-with-C-&theme=dark&hide_border=true" height="140"/>
   </a>
-  <a href="https://github.com/BhattAyush17/Lane_Morph">
+  <a href="https://github.com/Dubey123f/Ecommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=Lane_Morph&theme=dark&hide_border=true" height="140"/>
   </a>
-  <a href="https://github.com/BhattAyush17/Greydge">
+  <a href="https://github.com/Dubey123f/Crypto-Nexus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=Greydge&theme=dark&hide_border=true" height="140"/>
   </a>
-  <a href="https://github.com/BhattAyush17/zavix-animegan-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=zavix-animegan-app&theme=dark&hide_border=true" height="140"/>
-  </a>
-  <a href="https://github.com/BhattAyush17/Loan-Dash-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhattAyush17&repo=Loan-Dash-X&theme=dark&hide_border=true" height="140"/>
-  </a>
+
 </div>
 
 ---
